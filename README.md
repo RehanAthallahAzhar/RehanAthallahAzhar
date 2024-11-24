@@ -1,4 +1,4 @@
-[![MasterHead](./banner)](https://rehanathallahazhar.github.io)
+[![MasterHead](./banner.png)](https://rehanathallahazhar.github.io)
 <h1 align="center">Hi 👋, I'm Rehan Athallah Azhar</h1>
 <h3 align="center">A passionate backend and machine learning developer</h3>
 
